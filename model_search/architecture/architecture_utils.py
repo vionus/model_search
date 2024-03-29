@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Copyright 2020 Google LLC CHANGES1
 #
 # Licensed under the CHANGES2
@@ -12,6 +13,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+=======
+>>>>>>> branch_1
 # Lint as: python3
 """Utils to handle architectures in Phoenix."""
 
